@@ -1,8 +1,11 @@
-## 📊 Conceptual Data Pipeline
+## Conceptual Data Pipeline
 
-[![Pipeline Diagram](conceptual_pipeline_diagram.png)](https://viewer.diagrams.net/index.html?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=conceptual_pipeline.drawio#R%3Cmxfile%3E%3Cdiagram%20id%3D%22conceptual%22%20name%3D%22Conceptual%20Data%20Pipeline%22%3E7T3ZduK4tt9yH1ir6gGWB2z...)
+![Pipeline Diagram](conceptual_pipeline.drawio.png)
 
-**Conceptual End-to-End Data Pipeline for Beejan Technologies**
+You can view the full diagram here:  
+[View Pipeline Diagram](https://viewer.diagrams.net/index.html?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=conceptual_pipeline.drawio#R%3Cmxfile%3E%3Cdiagram%20id%3D%22conceptual%22%20name%3D%22Conceptual%20Data%20Pipeline%22%3E7T3ZduK4tt9yH1ir6gGWB2z...)
+
+## Conceptual End-to-End Data Pipeline for Beejan Technologies
 
 The purpose of the pipeline is to systematically convert disorganized customer grievances into actionable intelligence for the decision-makers. The objective is to capture every possible data interaction within the company to streamline data for the entire firm.
 
